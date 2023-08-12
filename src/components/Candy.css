@@ -1,0 +1,32 @@
+.app1{
+    display: flex;
+    padding: 30px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.game1{
+    width: 560px;
+    height: 560px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.game1 img{
+    width: 70px;
+    height: 70px;
+}
+
+.ha {
+    text-align: center;
+    margin: 0;
+    padding: 10px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+    color: #333;
+  }
+
+.score-board{
+    color: white;
+}

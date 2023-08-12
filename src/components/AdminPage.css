@@ -1,0 +1,46 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  
+  .row {
+    width: 900px;
+    height: 550px;
+    border-radius: 10px;
+    background: #000000;
+    box-shadow: 5px 5px 10px 1px rgba(0, 0, 0, 0.2);
+  }
+  
+  .fd {
+    width: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .input-box {
+    width: 330px;
+    box-sizing: border-box;
+  }
+  
+  .input-box header {
+    font-weight: 700;
+    text-align: center;
+    margin-bottom:auto;
+  }  
+
+  .head{
+    color: #fff;
+    text-align: center;
+    align-items: center;
+  }
+

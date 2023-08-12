@@ -1,0 +1,10 @@
+.ig {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* Adjust the number of columns as desired */
+    gap: 10px; /* Adjust the gap between images */
+  }
+  
+  .ig img {
+    width: 100%; /* Adjust the image width as needed */
+    height: auto; /* Maintain the aspect ratio */
+  }

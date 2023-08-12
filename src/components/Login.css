@@ -1,0 +1,18 @@
+form{
+    width: 24%;
+    padding: 50px;
+    border-radius: 20px;
+    margin-top: 150px ;
+}
+
+.form-control{
+    color: rgb(118, 223, 223);
+    border-bottom-color: rgb(214, 214, 230);
+    box-shadow: none !important;
+    border: none;
+    border-bottom: 1px solid;
+    border-radius: 4px 4px 0 0;
+}
+
+
+
